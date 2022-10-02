@@ -20,7 +20,7 @@
 s=gets.chomp
 sf=s[0]
 sl=s[-1]
-# p s,sf,sl
+# p s,sf,slr
 
 puts (sf..sl).to_a
 
